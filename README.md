@@ -1,21 +1,31 @@
-The paper "A Guideline of Selecting and Reporting Intraclass Correlation Coefficients for Reliability Research" is highly cited because it addresses a fundamental issue in reliability research, which is the appropriate selection and reporting of Intraclass Correlation Coefficients (ICCs). Here are a few reasons why the paper might be highly cited:
+evolving from journaling (aka navel-gazing) to thought-leadership (i.e., blogging)
 
-### Fills a Knowledge Gap
-Prior to this paper, there may not have been a comprehensive guideline for selecting and reporting ICCs, making it a vital resource for researchers in psychology, medicine, and other disciplines.
+---
 
-### Practical Application
-The paper offers practical advice that researchers can immediately implement into their methodologies, helping to improve the quality of research across disciplines.
+Transitioning from personal journaling to thought-leadership through blogging is a natural progression for those who have developed valuable insights they want to share with a broader audience. Here are some strategic steps to facilitate this transition:
 
-### Interdisciplinary Importance
-ICCs are widely used in various fields for assessing the reliability of measurements. Having a guide to properly use them has implications not only for statistical research but also for applied research in many other domains.
+### Assess Your Strengths and Niches
+1. **Expertise**: Identify your areas of expertise or unique perspectives. Given your interests in NIH Grants, Interdisciplinary Funding, and the concept of ICCs, you could consider focusing on those topics.
+2. **Audience**: Determine who would benefit most from your insights. Academics, professionals in tech startups, or perhaps researchers interested in interdisciplinary projects?
 
-### Credibility
-If authored by well-known or respected researchers in the field, the paper’s credibility can also boost its citation count. This can establish it as a 'go-to' reference for this specific statistical topic.
+### Content Strategy
+1. **Value Proposition**: Each blog post should offer something of value. Translate complex ideas into accessible insights, how-tos, or takeaways.
+2. **Format**: Consider different types of posts, such as long-form articles, case studies, interviews, and shorter, more frequent updates.
+3. **Calendar**: Create an editorial calendar to organize your topics and publishing schedule.
 
-### Clarity and Accessibility
-The paper might be written in a way that is accessible to non-experts, thereby broadening its readership. If it explains complex concepts in an easy-to-understand manner, it's more likely to be cited by researchers from various backgrounds.
+### Quality and Rigor
+1. **Peer Review**: Before publishing, have someone knowledgeable in the field review your post to ensure it meets academic or professional standards.
+2. **Data and Sources**: Whenever possible, use evidence to back up your claims. If data is limited, thought experiments and theoretical frameworks can be used to bolster your arguments.
 
-### Timing
-The timing of publication could also be a factor. If it was one of the first papers to address these issues comprehensively, then it will have had more time to be cited by subsequent research.
+### Reach and Collaboration
+1. **Promotion**: Utilize social media, academic networks, and relevant online communities to share your posts.
+2. **Cross-Departmental Collaboration**: Forge collaborations to co-author posts, which will not only enrich your content but also broaden your reach.
 
-Given your own advanced background in research and technology, this kind of paper would be fundamental in setting the methodological groundwork for any investigations into ICCs you might undertake, whether in an academic or applied research setting.
+### Monitoring and Feedback
+1. **Analytics**: Use website analytics to track which posts are getting the most attention and engagement.
+2. **Feedback Loop**: Enable comments or some other form of feedback on your blog to learn what resonates with your audience.
+
+### Philosophical Grounding
+Given your note about the "yellow zone" and reaching "the end of the road" in terms of what can be done with existing data, your blog can serve as a space to explore these limitations. Blogs are excellent platforms for discussing the nuances that traditional academic publishing might not accommodate, such as speculation, philosophical explorations, and methodological frustrations.
+
+By transitioning from journaling to blogging, you are moving from an introspective process to a more extroverted one that aims to contribute to the community. This act of sharing itself is a form of leadership. Whether it's helping others navigate the complexities of grant applications or illuminating the nuanced dynamics in ICCs, you have the opportunity to make a significant impact.
